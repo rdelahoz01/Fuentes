@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<servidor>
+  <confserver>
+    <directorio>local</directorio>
+    <archivo>conf.xml</archivo>
+  </confserver>
+</servidor>

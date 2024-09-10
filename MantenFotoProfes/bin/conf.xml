@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<servidor>
+  <configuracion>
+    <ip>150.10.10.223</ip>
+    <puerto>9090</puerto>
+    <objectUri>infstgo</objectUri>
+  </configuracion>
+</servidor>

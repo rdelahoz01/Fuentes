@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<servidor>
+  <confserver>
+    <directorio>remoto</directorio>
+    <archivo>http://intracapresalud:8082/configuraciones/emails.xml</archivo>
+    <grupoemails>0</grupoemails>
+  </confserver>
+</servidor>
